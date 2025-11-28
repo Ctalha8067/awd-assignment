@@ -1,0 +1,70 @@
+Personal Portfolio Website Documentation
+
+Name: [Your Name]
+Course: Modern Web Development Technologies
+Date: [Date]
+
+1. HTML (index.html)
+
+The HTML file provides the structure of the website.
+
+Header: Contains the logo and navigation links (Home, About, Projects, Contact)
+
+Hero Section: Introduction with name and tagline, with a "Contact Me" button
+
+About Section: Brief description with a "Read More" toggle
+
+Projects Section: Displays 3 sample projects with titles and descriptions
+
+Contact Section: Form with Name, Email, and Message fields
+
+Footer: Contains copyright information
+
+Semantic elements used: <header>, <nav>, <section>, <footer>, <h1>, <h2>, <p>, <button>, <form>
+
+2. CSS (styles.css)
+
+The CSS file defines the look and feel of the website.
+
+Body styling: Font, color, background, smooth scrolling
+
+Header & Navigation: Background color, sticky position, hover effects
+
+Sections: Padding, border-radius, shadows, responsive layout
+
+Project Cards: Hover animations, box shadows, color changes
+
+Contact Form: Input focus effects, submit button styling
+
+Dark/Light Mode: Toggle between dark and light theme
+
+Responsive Design: Media queries for mobile screens
+
+3. JavaScript (script.js)
+
+Hamburger Menu: Toggles navigation links on smaller screens
+
+Smooth Scroll: Smoothly scrolls to sections when navigation links or buttons are clicked
+
+About Section Toggle: Shows or hides the "Read More" text
+
+Contact Form: Displays success or error message on submission
+
+Dark/Light Mode Toggle: Switches between dark and light theme and updates button text
+
+4. Features Implemented
+
+Responsive layout for desktop and mobile devices
+
+Dark/Light mode toggle
+
+Smooth scrolling navigation
+
+Interactive "Read More" toggle in About section
+
+Hover animations on project cards and buttons
+
+Contact form UI (frontend only, no backend submission)
+
+Summary:
+This personal portfolio website demonstrates the use of HTML5 for structure, CSS3 for styling and responsive design, and JavaScript for interactivity. All assignment requirements have been implemented, providing a clean, modern, and responsive user interface.
